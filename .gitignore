@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.egg-info/
+.pytest_cache/
+.venv/
+build/
+dist/
+src/mykmeans/_core.c
+src/mykmeans/_sparse.c
+*.html
